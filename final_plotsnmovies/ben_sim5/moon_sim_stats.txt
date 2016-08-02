@@ -1,0 +1,5 @@
+Moon creation simulation information
+Simulation time step: 56.322985513
+Initial number of rocks: 1000
+Initial total mass: 2.20377e+23
+Remaining mass in rocks: 1.6969029e+23
